@@ -1,6 +1,8 @@
-# Omar Wageh | Professional Portfolio 👨‍💻
+# Omar Wageh | Professional Portfolio 
 
-![Project Banner](https://picsum.photos/1200/400?grayscale&blur=2)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Biting%20Lip.png" width="100" height="100" />
+</p>
 
 > A modern, immersive, and interactive portfolio website built for **Omar Wageh**, a Full Stack Developer and IT Student. This project showcases a blend of creative design (UI/UX) and robust engineering using **React 19**, **Three.js**, and **Tailwind CSS**.
 
@@ -87,4 +89,11 @@ You can easily update the content without touching the logic components.
 
 
 ---
-*Designed & Developed by  [![a r s i n e k ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141345223) © 2025*
+- *Designed & Developed by ***a r s i n e k*** © 2025*
+[![a r s i n e k ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141345223) 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b5adb0b9-2e52-4707-be4d-00c4fac304a6" 
+       alt="Intro Animation" width="800"/>
+</div>
+
